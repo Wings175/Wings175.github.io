@@ -223,7 +223,7 @@ h4 {
   .contenu_nouvelle {
     margin-top: 20px;
     clear: both;
-    text-align: center;
+    text-align: justify;
   }
   
   /*******************************/
@@ -280,6 +280,7 @@ h4 {
     box-shadow: 0 0 4px #999;
     margin-top: 30px;
     margin-bottom: 30px;
+    max-width: 100%;
   }
   
   .titrePubli {
